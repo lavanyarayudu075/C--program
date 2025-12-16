@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+	// your code goes here
+	int a;
+	scanf("%d",&a);
+	printf("%d",7-a);
+	return 0;
+    
+}
