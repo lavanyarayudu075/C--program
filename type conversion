@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    double d;
+    scanf("%lf", &d);
+    // Typecast and Print
+     printf("%d", (int)d);
+    return 0;
+}
